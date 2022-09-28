@@ -1,4 +1,3 @@
-## Eae, tudo bem? Me chamo João Vitor Nascimento da Silva 
 <div align="center">
   <a href="https://github.com/nascimentocode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentocode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
