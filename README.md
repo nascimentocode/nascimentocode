@@ -25,5 +25,5 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  ![Snake animation](https://github.com/nascimentocode/nascimentocode/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/nascimentocode/nascimentocode/blob/output/github-contribution-grid-snake.gif)
 </div>
