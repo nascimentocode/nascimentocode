@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/notnascimento/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-vitor-nascimento-da-silva/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/nascimentocode/)
-![nascimentocode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nascimentocode&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
 <div>
   <a href="https://github.com/nascimentocode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nascimentocode&theme=material-palenight&show_icons=true&hide_border=true&count_private=true"/>
